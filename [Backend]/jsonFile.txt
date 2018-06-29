@@ -1,0 +1,125 @@
+{
+  "Personal": {
+    "LastName": "Robert",
+    "FirstName": "James",
+    "Age": "29",
+    "LastSchool": "MIT",
+    "EMail": "licentamailbranea@gmail.com"
+  },
+  "JavaData": [
+    {
+      "elementName": "Hibernate",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "General Java",
+      "appraisal": "Expert",
+      "duration": "5 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "JDBC",
+      "appraisal": "Medium",
+      "duration": "2 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "JPA",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ],
+  "CData": [
+    {
+      "elementName": "STL",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "Boost",
+      "appraisal": "Expert",
+      "duration": "5 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "DirectX",
+      "appraisal": "Medium",
+      "duration": "2 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "Inforce",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ],
+  "jScriptData" : [
+    {
+      "elementName": "Vue.js",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ],
+  "htmlData" : [
+
+  ],
+  "cssData" : [
+
+  ],
+  "premadeData" : [
+
+],
+  "pythonData" : [
+    {
+      "elementName": "python",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+],
+  "csharpData" : [
+
+  ],
+  "haskellData" : [
+
+  ],
+  "perlData" : [
+    {
+      "elementName": "perl",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ],
+  "erlangData" : [
+
+  ],
+  "lispData" : [
+
+  ],
+  "mavenData" : [
+
+  ],
+  "gradleData" : [
+
+  ],
+  "antData" : [
+
+  ],
+  "android_uiData" : [
+
+  ],
+  "android_osData" : [
+
+  ],
+  "android_fileSystemData" : [
+
+  ]
+
+}

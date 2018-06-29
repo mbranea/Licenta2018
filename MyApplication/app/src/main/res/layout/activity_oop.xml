@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yarolegovich.mp.MaterialPreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.madalinbranea.myapplication.AndroidUI.MainActivity">
+
+
+    <com.yarolegovich.mp.MaterialPreferenceCategory
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:mpc_title="Object-Oriented Programming">
+
+        <com.yarolegovich.mp.MaterialRightIconPreference
+            android:id="@+id/java_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mp_icon="@drawable/ic_list_black_24dp"
+            app:mp_icon_tint="@color/grayIconTint"
+            app:mp_title="Java" />
+        <com.yarolegovich.mp.MaterialRightIconPreference
+            android:id="@+id/cplus_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mp_icon="@drawable/ic_list_black_24dp"
+            app:mp_icon_tint="@color/grayIconTint"
+            app:mp_title="C++ " />
+        <com.yarolegovich.mp.MaterialRightIconPreference
+            android:id="@+id/python_data"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mp_icon="@drawable/ic_list_black_24dp"
+            app:mp_icon_tint="@color/grayIconTint"
+            app:mp_title="Python" />
+        <com.yarolegovich.mp.MaterialRightIconPreference
+            android:id="@+id/csharp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mp_icon="@drawable/ic_list_black_24dp"
+            app:mp_icon_tint="@color/grayIconTint"
+            app:mp_title="C#" />
+
+    </com.yarolegovich.mp.MaterialPreferenceCategory>
+
+
+    <Button
+        android:id="@+id/BackButtonOop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:drawableLeft="@drawable/ic_save_black_24dp"
+
+        />
+
+
+
+
+</com.yarolegovich.mp.MaterialPreferenceScreen>

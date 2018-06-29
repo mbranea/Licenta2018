@@ -1,0 +1,63 @@
+{
+"Personal": {
+
+  "LastName": "Robert",
+  "FirstName": "James",
+   "Age": "29",
+   "LastSchool": "MIT"
+
+},
+
+  "JavaData" : [
+    {
+      "elementName": "Hibernate",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "General Java",
+      "appraisal": "Expert",
+      "duration": "5 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "JDBC",
+      "appraisal": "Medium",
+      "duration": "2 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "Hibernate",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ],
+  "CData" : [
+    {
+      "elementName": "Hibernate",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "General Java",
+      "appraisal": "Expert",
+      "duration": "5 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "JDBC",
+      "appraisal": "Medium",
+      "duration": "2 years",
+      "Comments": "Here are the comments"
+    },
+    {
+      "elementName": "Hibernate",
+      "appraisal": "Medium",
+      "duration": "1 year",
+      "Comments": "Here are the comments"
+    }
+  ]
+}

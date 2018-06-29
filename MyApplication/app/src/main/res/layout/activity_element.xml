@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yarolegovich.mp.MaterialPreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/element_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.madalinbranea.myapplication.AndroidUI.MainActivity">
+
+
+    <com.yarolegovich.mp.MaterialPreferenceCategory
+        android:id="@+id/overview2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:mpc_title="Overview">
+
+    <com.yarolegovich.mp.MaterialRightIconPreference
+        android:id="@+id/add_new"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:mp_icon_tint="@color/grayIconTint"
+        app:mp_title="Add New" />
+
+
+    </com.yarolegovich.mp.MaterialPreferenceCategory>
+
+    <Button
+        android:id="@+id/BackButtonElement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:drawableLeft="@drawable/ic_save_black_24dp"
+
+        />
+
+</com.yarolegovich.mp.MaterialPreferenceScreen>
